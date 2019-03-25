@@ -1,8 +1,8 @@
 # Contributing guidelines
 
-## How to become a con
+## 
 
-### Contributor License Agreementsa
+### 
 
 We'd love to accept your patches! Before we can take them, we have to jump a couple of legal hurdles.
 
